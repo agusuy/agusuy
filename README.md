@@ -4,7 +4,7 @@ My name is Agustín Castillo, and I'm a **Computer Scientist** and **Software En
 
 I enjoy working on cross-disciplinary teams and collaborating to solve complex problems, and I feel engaged when working on innovative solutions. I have a curious mind, and I'm always looking for new things to learn and challenge myself.
 
-## My Education
+## My Education 🎓
 **Master of Science (M.Sc.) in Computer Science & Software Engineering**
 
 _University of Washington. 2024_
@@ -18,7 +18,7 @@ _Catholic University of Uruguay. 2012_
 **Relevant coursework:** Data Structures and Algorithms, Object-Oriented Programming, Software Engineering, Testing, Computer Architecture, Operating Systems, Computer Networks, Databases, Computer Graphics, Distributed Systems, System Simulations, Theory of Computation, Compilers, Artificial Intelligence, Numerical Analysis, User Interfaces and Usability, Project Management
 
 
-## My Experience
+## My Experience 👨🏻‍💻
 
 **Research Assistant.** _University of Washington. September 2024 - Present_
 
@@ -31,7 +31,7 @@ _Catholic University of Uruguay. 2012_
 **Full Stack Software Developer.** _Innuy. January 2013 - December 2015_
 
 
-<!--## Things I have built-->
+<!--## Things I have built 🔨-->
 
 ---
 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/agustin-castillo/)
