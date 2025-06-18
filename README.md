@@ -20,27 +20,18 @@ _Catholic University of Uruguay. 2012_
 
 ## My Experience
 
-**Research Assistant**
+**Research Assistant.** _University of Washington. September 2024 - Present_
 
-_University of Washington. September 2024 - Present_
+**CS Teaching Assistant.** _University of Washington. September 2023 - June 2024_
 
-**CS Teaching Assistant**
+**Adjunct Professor.** _Catholic University of Uruguay. March 2013 - July 2022_
 
-_University of Washington. September 2023 - June 2024_
+**Lead Developer.** _Innuy. December 2015 - December 2019_
 
-**Adjunct Professor**
+**Full Stack Software Developer.** _Innuy. January 2013 - December 2015_
 
-_Catholic University of Uruguay. March 2013 - July 2022_
-
-**Lead Developer**
-
-_Innuy. December 2015 - December 2019_
-
-**Full Stack Software Developer**
-
-_Innuy. January 2013 - December 2015_
 
 <!--## Things I have built-->
 
-
-📫 You can find me on [LinkedIn](https://www.linkedin.com/in/agustin-castillo/)
+---
+📫 Contact me: [LinkedIn](https://www.linkedin.com/in/agustin-castillo/)
