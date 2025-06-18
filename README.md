@@ -17,6 +17,7 @@ _Catholic University of Uruguay. 2012_
 
 **Relevant coursework:** Data Structures and Algorithms, Object-Oriented Programming, Software Engineering, Testing, Computer Architecture, Operating Systems, Computer Networks, Databases, Computer Graphics, Distributed Systems, System Simulations, Theory of Computation, Compilers, Artificial Intelligence, Numerical Analysis, User Interfaces and Usability, Project Management
 
+<!--## Skills and Technologies-->
 
 ## My Experience 👨🏻‍💻
 
