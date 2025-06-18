@@ -6,9 +6,11 @@ I enjoy working on cross-disciplinary teams and collaborating to solve complex p
 
 ## My Education
 **Master of Science (M.Sc.) in Computer Science & Software Engineering**
+
 _University of Washington. 2024_ 
 
 **Bachelor of Science (B.S.) in Computer Engineering**
+
 _Catholic University of Uruguay. 2012_ 
 
 
