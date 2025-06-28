@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Agustín Castillo, and I'm a **Computer Scientist** and **Software Engineer** with a focus on **Machine Learning**, **Deep Learning**, **High Performance Computing**, and **Python** backend development. I have over 10 years of experience in building commercial software, conducting research, and teaching AI.
+My name is Agustín Castillo, and I'm a **Computer Scientist** and **Software Engineer** with a focus on **Artificial Intelligence**, **Data Analytics**, **Machine Learning**, **Deep Learning**, **High Performance Computing**, and **Python** backend development. I have over 10 years of experience in building commercial software, conducting research, and teaching AI.
 
 I enjoy working on cross-disciplinary teams and collaborating to solve complex problems, and I feel engaged when working on innovative solutions. I have a curious mind, and I'm always looking for new things to learn and challenge myself.
 
